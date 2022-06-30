@@ -13,7 +13,7 @@
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img aling="" alt="Vitor-MySql" height="30" width="30" src="https://user-images.githubusercontent.com/97813061/176571645-5374e8bc-9dcd-41d6-9388-7e4013ab502d.png">
+
 </div>
   
   ##
