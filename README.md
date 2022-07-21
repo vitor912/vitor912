@@ -1,7 +1,7 @@
 # Olá! Me chamo Vitor Ribeiro 👋
 
 - 🔭 A procura de estágio ou uma vaga trainee
-- 🌱 Estudando HTML, CSS e C#
+- 🌱 Estudando HTML, CSS, C# e .NET
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
