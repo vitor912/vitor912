@@ -1,7 +1,7 @@
 # Olá! Me chamo Vitor Ribeiro 👋
 
 - 🔭 A procura de estágio ou uma vaga trainee
-- 🌱 Estudando HTML, CSS, JavaScript (Framework's Vue.js), C# e .NET CORE
+- 🌱 Estudando HTML, CSS, JavaScript (Framework's Vue.js).
 - 😄 Pronouns: Ele/dele
 
 <br>
@@ -15,10 +15,7 @@
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  
-  <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vitor-dotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-
+ 
 </div>
   
   ##
