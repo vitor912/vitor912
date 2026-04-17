@@ -1,10 +1,10 @@
 # Olá! Me chamo Vitor Ribeiro 👋
 
-- 🔭 A procura de estágio ou uma vaga trainee
+<!--- 🔭 A procura de estágio ou uma vaga trainee
 - 🌱 Estudando HTML, CSS, JavaScript (Framework's Vue.js).
 - 😄 Pronouns: Ele/dele
 
-<br>
+<!-- <br>
 <div align="center">
   <a href="https://github.com/vitor912">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor912&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/vitor-ribeiro-33927568" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-</div>
+</div> -->
